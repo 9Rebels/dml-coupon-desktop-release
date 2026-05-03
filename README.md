@@ -96,7 +96,9 @@ DML Coupon Desktop 主要支持以下功能：
 ---
 
 ## 我的账号
-<img width="1262" height="805" alt="ScreenShot_2026-05-03_141327_085" src="https://github.com/user-attachments/assets/a7679829-1ccc-4a12-b567-c84d2526d76e" />
+
+<img width="1263" height="792" alt="ScreenShot_2026-05-03_141257_820" src="https://github.com/user-attachments/assets/a5127ce6-7f96-47cf-ab92-27d5ec5bc51c" />
+
 
 
 账号管理是软件的核心功能之一。
